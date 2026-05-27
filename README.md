@@ -42,12 +42,13 @@ I firmly believe that the future of intelligent systems relies heavily on their 
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yo13038&theme=vision-pro" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yo13038&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yo13038&theme=vision-pro" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Yo13038&show_icons=true&theme=vision-pro" alt="GitHub Stats" />
 </p>
+
 ---
 
 <p align="center">
